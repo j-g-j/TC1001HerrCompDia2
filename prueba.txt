@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Esto es la primer linea de prueba
 
 	Modificacion de Jorge Turner.
+=======
+Esto es la primer linea de prueba.
+Esta es la linea de Julian Guerrero. Este es segunda modificacion.
+>>>>>>> 9dce8b96a5a42982776bb0af50ef73fc7ebdbfa8
