@@ -7,3 +7,4 @@ esto no es un meme, quiero...
 Auida viiim
 Y seguimos escribiendo cosas en Vim
 Seguimos editanto cosillas en vim
+Bienvenidos a github, ola amikos.
