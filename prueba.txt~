@@ -1,8 +1,17 @@
-<<<<<<< HEAD
-Esto es la primer linea de prueba.
-Esta es la línea de Eduardo Porcayo.
-=======
-
+ESTA ES MOD 2
 ESTA LINEA ES MIA RAMYOSH
 Esto es la primer linea de prueba.
+<<<<<<< HEAD
+<<<<<<< HEAD
+Esta es la línea de Eduardo Porcayo. Esta es segunda modificacion.
+=======
+Esta es la linea de Julian Guerrero. Este es segunda modificacion.
+Esta es la linea de Kenny Vercaemer.
 >>>>>>> 19c20ee3ac43b7ecae40ccad7c932dd2cdf86218
+=======
+Esto es una segunda linea, babushca
+=======
+Esta es la linea de Julian Guerrero. Este es segunda modificacion.
+Esta es la linea de Kenny Vercaemer.
+>>>>>>> 0894fcf52f96fc8ed65cf04a798000bd86b3caa8
+>>>>>>> refs/remotes/origin/master
