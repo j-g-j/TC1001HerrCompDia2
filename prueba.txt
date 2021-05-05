@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Esto es la primer linea de prueba
 
 	Modificacion de Jorge Turner.
@@ -8,6 +9,14 @@ Esto es la primer linea de prueba
 ESTA ES MOD 2
 ESTA LINEA ES MIA RAMYOSH
 >>>>>>> 3368d2e113caaaec0cac7de593a43abc36572ae4
+=======
+eLínea de Ronaldo Jesús
+Esta es la segunda línea de prueba
+=======
+ESTA ES MOD 2
+ESTA LINEA ES MIA RAMYOSH
+>>>>>>> 0894fcf52f96fc8ed65cf04a798000bd86b3caa8
+>>>>>>> 29249b6e0076f2e4e886d4a183d59f158940aa2f
 Esto es la primer linea de prueba.
 <<<<<<< HEAD
 Esto es una segunda linea, babushca
