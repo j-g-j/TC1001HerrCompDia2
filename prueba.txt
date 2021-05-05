@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 eLínea de Ronaldo Jesús
 Esta es la segunda línea de prueba
+=======
+ESTA ES MOD 2
+ESTA LINEA ES MIA RAMYOSH
+>>>>>>> 0894fcf52f96fc8ed65cf04a798000bd86b3caa8
 Esto es la primer linea de prueba.
 Esta es la linea de Julian Guerrero. Este es segunda modificacion.
+Esta es la linea de Kenny Vercaemer.
